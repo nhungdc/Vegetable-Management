@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/src/java/controller/LoginController.java</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/web/addProduct.jsp</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/web/user.jsp</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/src/java/controller/CreateUserController.java</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/web/shopping.jsp</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/src/java/controller/SearchProductController.java</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/web/viewCart.jsp</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/src/java/filter/AuthenFilter.java</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/web/error.jsp</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/web/login.jsp</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/src/java/controller/UpdateController.java</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/src/java/dtos/ProductDTO.java</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/web/createUser.jsp</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/web/admin.jsp</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/src/java/controller/DeleteController.java</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/src/java/controller/EditCartController.java</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/src/java/controller/MainController.java</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/src/java/daos/ProductDAO.java</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/src/java/controller/CreateProductController.java</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/src/java/controller/AddToCartController.java</file>
+            <file>file:/E:/Nhung/NetBeansProjects/SE1508_SE151533_DuongCamNhung/src/java/controller/SearchController.java</file>
+        </group>
+    </open-files>
+</project-private>
